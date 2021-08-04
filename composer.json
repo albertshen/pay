@@ -1,18 +1,16 @@
 {
-    "name": "yansongda/pay",
+    "name": "albertshen/pay",
     "description": "可能是我用过的最优雅的 Alipay 和 WeChat 的支付 SDK 扩展包了",
     "keywords": ["alipay", "wechat", "pay"],
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/yansongda/pay/issues",
-        "source": "https://github.com/yansongda/pay",
-        "homepage": "https://pay.yansongda.cn"
+        "source": "https://github.com/albertshen/pay"
     },
     "authors": [
         {
-            "name": "yansongda",
-            "email": "me@yansongda.cn"
+            "name": "albertshen",
+            "email": "albertshen@126.com"
         }
     ],
     "require": {
